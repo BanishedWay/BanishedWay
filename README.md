@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi, 👋 I'm Xu Jinqi
 
 ![](https://github-readme-stats.vercel.app/api?username=BanishedWay)
+
+![Visitor Count](https://profile-counter.glitch.me/BanishedWay/count.svg)
+
+
+
 
 <!--
 **BanishedWay/BanishedWay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
